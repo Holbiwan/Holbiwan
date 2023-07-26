@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning at Holberton school Paris
+- 🌱 I’m currently learning at Holberton School Paris
 
 <!---
 Holbiwan/Holbiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
