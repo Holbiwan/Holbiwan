@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Holbiwan
+- 👋 Hi, I’m Sabrina aka @Holbiwan
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning at Holberton school Paris
 
