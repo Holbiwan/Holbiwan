@@ -1,7 +1,7 @@
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
 * 👋 Hi,
-* 👀 I’m Sabrina aka Holbiwan 
-* I'm invested in new technologies learning
+* I’m Sabrina aka Holbiwan 
+* I'm invested in new technologies learning  👀
 
  
 
@@ -14,6 +14,6 @@
 
 
 
-<!---
-H
---->
+
+![This is an image](https://zupimages.net/up/23/37/c76z.gif)
+
