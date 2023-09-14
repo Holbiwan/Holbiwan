@@ -17,7 +17,7 @@
   
 ![C Language](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Python Language](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Git Control System](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 
 
 
