@@ -9,10 +9,18 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 
 <hr>
-<h3 align="center">🔥 Languages - Frameworks - Tools - Abilities 🔥</h3>
+<h3 align="center">🔥 Languages 🔥</h3>
 <br>
 <p align="center">
   
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+
 
 
 ![Git Control System](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
