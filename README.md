@@ -2,8 +2,6 @@
 * I'm invested in new technologies learning  👀
 
 
-![This is an image](https://zupimages.net/up/23/37/6daa.gif)
-
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -40,6 +38,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](6188@holbertonstudents.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 
+![This is an image](https://zupimages.net/up/23/37/6daa.gif)
 
 
 
