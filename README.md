@@ -1,5 +1,4 @@
-👋 Hi,
-- 👀 I’m invested in new technologies learning
+👋 Hi, 👀 I’m Sabrina aka Holbiwan . I'm invested in new technologies learning
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
  
 
