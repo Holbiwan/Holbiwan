@@ -4,6 +4,9 @@
 
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
 
+
+! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?Holbiwan=Your_GitHub_Holbiwan&show_icons=true
+
 <hr>
 <h3 align="center">🔥 Languages & tools 🔥</h3>
 <br>
