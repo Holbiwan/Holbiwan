@@ -1,4 +1,4 @@
-* 👋 Hi, Hi there 👋, I am Sabrina aka Holbiwan! 😁
+* 👋 Hi there 👋, I am Sabrina aka Holbiwan!😁
 * I'm invested in new technologies learning  👀
 
 
