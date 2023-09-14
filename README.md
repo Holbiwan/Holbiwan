@@ -1,6 +1,5 @@
 👋 Hi,
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning at Holberton School Paris
+- 👀 I’m invested in new technologies learning
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
  
 
