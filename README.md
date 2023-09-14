@@ -12,20 +12,16 @@
 <h3 align="center">🔥 Languages 🔥</h3>
 <br>
 <p align="center">
-  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
 
 
 
-![Git Control System](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![C Language](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Python Language](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+
+
 
 
 
