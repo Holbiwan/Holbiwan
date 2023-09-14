@@ -11,7 +11,7 @@
 **Languages and Tools:** 
 
 <hr>
-<h1 align="center">🔥 Languages - Frameworks - Tools - Abilities 🔥</h1>
+<h3 align="center">🔥 Languages - Frameworks - Tools - Abilities 🔥</h3>
 <br>
 <p align="center">
   
