@@ -40,7 +40,7 @@
 <!--
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Holbiwan&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 -->
 
 
