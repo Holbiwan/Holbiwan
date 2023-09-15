@@ -20,14 +20,7 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/>
-    </a>
-  </p> 
-</div>
+
 
 <br>
 
