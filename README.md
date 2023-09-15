@@ -35,3 +35,12 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
   </a>
 </div>
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/Holbiwan/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Holbiwan/cf-stats/main/output/light_card.svg)
