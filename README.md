@@ -1,7 +1,10 @@
 * 👋 Hi there 👋, I am Sabrina aka Holbiwan!😁
 * I'm invested in new technologies learning  👀
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=holbiwan&theme=algolia&show_icons=true)](https://github.com/Holbiwan)
 
+
+[![Holbiwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=holbiwan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Holbiwan)
 
 
 <br/>
@@ -23,7 +26,7 @@
 
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=holbiwan&theme=algolia&show_icons=true)](https://github.com/Holbiwan)
+
 
 
 
