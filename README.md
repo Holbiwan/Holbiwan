@@ -4,24 +4,23 @@
 ![Holbiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=holbiwan&theme=dark&show_icons=true)]
 
 [![Holbiwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=holbiwan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Holbiwan)
-# GitHub-Stats-Card
-
-[![Author](https://img.shields.io/badge/Author-Holbiwan-purple?style=for-the-badge)](https://github.com/Holbiwan)
-[![Opensource](https://img.shields.io/badge/Open%20Source-Yes-cyan?style=for-the-badge)](./LICENSE)
-![JavaScript](https://img.shields.io/badge/Written%20In-JS-blue?style=for-the-badge)
-
-<!--
-![star-count](https://img.shields.io/github/stars/Holbiwan/github-stats-card?style=for-the-badge&color=orange)
-![fork-count](https://img.shields.io/github/forks/Holbiwan/github-stats-card?color=cyan&style=for-the-badge&color=purple)
-![watcher-count](https://img.shields.io/github/watchers/Holbiwan/github-stats-card?color=cyan&style=for-the-badge&color=purple)
-![issue-count](https://img.shields.io/github/issues/Holbiwan/github-stats-card?color=red&style=for-the-badge)
-![license](https://img.shields.io/github/license/Holbiwan/github-stats-card?style=for-the-badge&color=blue)
--->
 
 
 <h2 align="left"></h2><img align="right" height="150" src="https://zupimages.net/up/23/37/6daa.gif"  /><div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  /></div><div align="left"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  /><img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  /><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  /></div><div align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Holbiwan&theme=dark" alt=""  /></div>
 
 
+
+[![Author](https://img.shields.io/badge/Author-KasRoudra-purple?style=for-the-badge)](https://github.com/KasRoudra)
+[![Opensource](https://img.shields.io/badge/Open%20Source-Yes-cyan?style=for-the-badge)](./LICENSE)
+![JavaScript](https://img.shields.io/badge/Written%20In-JS-blue?style=for-the-badge)
+
+<!--
+![star-count](https://img.shields.io/github/stars/KasRoudra/github-stats-card?style=for-the-badge&color=orange)
+![fork-count](https://img.shields.io/github/forks/KasRoudra/github-stats-card?color=cyan&style=for-the-badge&color=purple)
+![watcher-count](https://img.shields.io/github/watchers/KasRoudra/github-stats-card?color=cyan&style=for-the-badge&color=purple)
+![issue-count](https://img.shields.io/github/issues/KasRoudra/github-stats-card?color=red&style=for-the-badge)
+![license](https://img.shields.io/github/license/KasRoudra/github-stats-card?style=for-the-badge&color=blue)
+-->
 
 <!-- THANKS FOR VISITING -->
 
