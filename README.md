@@ -1,5 +1,5 @@
 * 👋 Hi there 👋, I am Sabrina aka Holbiwan!😁
-* I'm invested in new technologies learning  👀
+ I'm invested in new technologies learning  👀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=holbiwan&theme=algolia&show_icons=true)](https://github.com/Holbiwan)
 
