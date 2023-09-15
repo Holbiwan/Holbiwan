@@ -24,11 +24,9 @@
 
 
 
-### Github stats
 
-<!--
-[![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+
+
 
 
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
