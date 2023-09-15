@@ -30,20 +30,6 @@
 [![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 
-[![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Holbiwan/Holbiwan/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-
-
-<!--
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Holbiwan&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
--->
-
-
 
 ![This is an image](https://zupimages.net/up/23/37/6daa.gif)
 
