@@ -2,25 +2,7 @@
 * I'm invested in new technologies learning  👀
 
 
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Sabrina's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Sabrina's Github stats" />
-</a>
-</div>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=radical&bg_color=000000#gh-dark-mode-only" alt="Sabrina's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&bg_color=000000#gh-dark-mode-only" alt="Sabrina's Github stats" />
-</a>
-</div>
 
 <br/>
 
