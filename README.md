@@ -1,4 +1,4 @@
-👋 Hi there 👋, I am Sabrina aka Holbiwan!😁
+👋 Hi there, I am Sabrina aka Holbiwan!😁
  I'm invested in new technologies learning  👀
 
 ![Holbiwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=holbiwan&theme=dark&show_icons=true)]
