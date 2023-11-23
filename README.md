@@ -1,5 +1,11 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
+# Hi I'm HOLBIWAN.👋
+
+### I am a Software Engineering student. `I learn by doing....`
+
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
 
 <h2 align="center"> My Stats </h2>
 
