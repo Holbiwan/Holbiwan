@@ -1,7 +1,4 @@
-👋 Hi, I am Sabrina aka Saby Holbiwan!😁
- I'm invested in new technologies learning  👀
-
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+HOLBIWAN;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Sabrina+aka+HOLBIWAN;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 
 <h2 align="center"> My Stats </h2>
