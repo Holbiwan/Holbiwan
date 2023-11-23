@@ -16,6 +16,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holbiwan_icons=true&theme=radical)
         <img height="191" src="https://github-readme-stats.vercel.app/api/top-langs?username=Holbiwan&show_icons=true&locale=en&layout=compact&bg_color=282A36&text_color=D9E0EE&title_color=FBD1D1&border_color=676871&langs_count=7" alt="top" />
   </a>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=holbiwan&show_icons=false" alt="holbiwan" /></p>
 </p>
 
 
