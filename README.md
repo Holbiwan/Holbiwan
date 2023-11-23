@@ -1,6 +1,10 @@
 👋 Hi, I am Sabrina aka Saby Holbiwan!😁
  I'm invested in new technologies learning  👀
 
+
+<a href="https://app.daily.dev/holbiwan"><img src="https://api.daily.dev/devcards/5072725bbfee4fcb9358998538638434.png?r=ula" width="400" alt="Saby HOLBIWAN's Dev Card"/></a>
+
+
 <h2 align="center"> My Stats </h2>
 
 <p align="center">
