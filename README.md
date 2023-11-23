@@ -50,6 +50,3 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
   </a>
 </div>
-
-
-<a href="https://app.daily.dev/Holbiwan"><img src="https://api.daily.dev/devcards/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.png?r=ily" width="400" alt="Holbiwan Dev Card"/></a>
