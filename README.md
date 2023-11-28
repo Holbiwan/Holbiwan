@@ -1,4 +1,4 @@
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
+/[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
 ### Hi I'm HOLBIWAN.👋
 
@@ -23,9 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Holbiwan&show_icons=true&locale=en&layout=compact" alt="Holbiwan" /></p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&locale=en" alt="Holbiwan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&" alt="Holbiwan" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holbiwan&theme=merko_icons=true)
