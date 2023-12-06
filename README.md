@@ -9,7 +9,7 @@
 *******************************************************************************************************************************************
 
   
-<h3 align="center">Languages and Tools used:</h3>
+<h3 align="center">Languages & Tools used:</h3>
 
 <p align="center">
 <a href="https://github.com/Holbiwan">
