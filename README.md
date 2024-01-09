@@ -1,10 +1,10 @@
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
-### Hi I'm HOLBIWAN.👋
+### Hi I'm HOLBIWAN👋
 
 ### I am a Web Developer Student. `I learn by doing....`
 
-- #### 🔭 I’m currently working on my coding skills.
+#### 🔭 I’m currently working on my coding skills.
 
 *******************************************************************************************************************************************
 
