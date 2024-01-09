@@ -2,7 +2,7 @@
 
 ### Hi I'm HOLBIWAN.👋
 
-### I am a Software Engineering student. `I learn by doing....`
+### I am a Web Developer Student. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills.
 
