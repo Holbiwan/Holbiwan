@@ -2,7 +2,7 @@
 
 ### Hi I am HOLBIWAN👋
 
-### I am a Web Developer Student. `I learn by doing....`
+### I am a Web Developer Student spe Full Stack. `I learn by doing....`
 
 #### 🔭 I’m currently working on my coding skills.
 
