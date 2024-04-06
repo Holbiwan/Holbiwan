@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Holbiwan.Holbiwan">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Holbiwan&label=Profile%20views&color=0e75b6&style=flat" alt="Holbiwan" /> </p>
+
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
