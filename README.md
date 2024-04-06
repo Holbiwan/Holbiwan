@@ -1,43 +1,61 @@
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
-### Hi,  I am HOLBIWAN👋
+# Hi, I am HOLBIWAN 👋
 
-### I am a Web Developer Student spe Full Stack. `I learn by doing....`
+## I am a Full Stack Web Developer Student 🚀
 
-#### 🔭 I’m currently working on my coding skills.
+- 🔭 **I’m currently working on:** Improving my coding skills through practical projects.
+- 🌱 **I learn by doing...** Embracing hands-on projects and challenges.
+- 📫 **How to reach me:** [![GitHub HOLBIWAN](https://img.shields.io/badge/-HOLBIWAN-black?style=flat-square&logo=github)](https://github.com/Holbiwan)
 
 *******************************************************************************************************************************************
 
   
-<h3 align="center">Languages & Tools used:</h3>
+### Languages & Tools 🛠️
 
 <p align="center">
 <a href="https://github.com/Holbiwan">
 
-<h2 align="left"></h2><img align="right" height="150" src="https://zupimages.net/up/23/37/6daa.gif"  /><div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  /></div><div align="left"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  /><img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  /><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  /></div><div align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Holbiwan&theme=dark" alt=""  /></div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 
 
-<h3 align="center<p align="center">
-<a href="https://github.com/Holbiwan">
+### Connect with me 🌐
+
+<p align="center">
+  <a href="https://instagram.com/holbiwan.saby">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sabrina-p006566185/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Holbiwan&show_icons=true&locale=en&layout=compact" alt="Holbiwan" /></p>
+### My GitHub Stats 📊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&" alt="Holbiwan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&theme=radical" alt="Holbiwan's GitHub Stats" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holbiwan&theme=merko_icons=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&" alt="Holbiwan's GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact" alt="Top Languages" />
+</p>
 
-[![Author](https://img.shields.io/badge/Author-Holbiwan-purple?style=for-the-badge)](https://github.com/Holbiwan)
-[![Opensource](https://img.shields.io/badge/Open%20Source-Yes-cyan?style=for-the-badge)](./LICENSE)
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a1931&height=120&section=footer"/>
+</div>
 
-<!--
-![star-count](https://img.shields.io/github/stars/Holbiwan/github-stats-card?style=for-the-badge&color=orange)
-![fork-count](https://img.shields.io/github/forks/Holbiwan/github-stats-card?color=cyan&style=for-the-badge&color=purple)
-![watcher-count](https://img.shields.io/github/watchers/Holbiwan/github-stats-card?color=cyan&style=for-the-badge&color=purple)
-![issue-count](https://img.shields.io/github/issues/Holbiwan/github-stats-card?color=red&style=for-the-badge)
-![license](https://img.shields.io/github/license/Holbiwan/github-stats-card?style=for-the-badge&color=blue)
--->
 
 <!-- THANKS FOR VISITING -->
 
