@@ -5,15 +5,13 @@
 
 # Hi, I am Sabrina 👋
 
-## I am a Full Stack Web Developer Student 🚀
+## I am a Software Engineer Student in Full Stack Specialization 🚀
 
 - 🔭 **I’m currently working on:** Improving my coding skills through practical projects.
 - 🌱 **I learn by doing...** Embracing hands-on projects and challenges.
 - 📫 **How to reach me:** [![GitHub HOLBIWAN](https://img.shields.io/badge/-HOLBIWAN-black?style=flat-square&logo=github)](https://github.com/Holbiwan)
 
-*******************************************************************************************************************************************
-
-  
+*************************************************************************************************************  
 ### Languages & Tools 🛠️
 
 <p align="center">
