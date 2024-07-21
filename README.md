@@ -3,8 +3,6 @@
 
 ![Holbiwan](https://zupimages.net/up/24/29/uiqm.png)
 
-![Visitor Count](https://profile-counter.glitch.me/{Holbiwan}/count.svg)
-
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
