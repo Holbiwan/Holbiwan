@@ -39,7 +39,10 @@
    <a href="https://github.com/Holbiwan">
     <img src="https://img.shields.io/badge/-HOLBIWAN-black?style=flat-square&logo=github"/>    
 </a>
-  <a href="https://x.com/Holbiwan_Place">
+<a href="https://www.twitch.tv/twitchygyal">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>    
+</a>
+<a href="https://x.com/Holbiwan_Place">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>    
 </a>
 </p>
@@ -73,8 +76,6 @@
 </div>
 
 <br>
-
-
 
 <br>
 
