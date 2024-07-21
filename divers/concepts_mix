@@ -1,0 +1,17 @@
+# Immutable object (int) as an argument
+def modify_immutable(x):
+    x = x * 2
+    return x
+
+value = 5
+result = modify_immutable(value)
+print(value)  # Output: 5 (unchanged)
+
+# Mutable object (list) as an argument
+def modify_mutable(lst):
+    lst.append(42)
+
+my_list = [1, 2, 3]
+modify_mutable(my_list)
+print(my_list)  # Output: [1, 2, 3, 42] (changed)
+

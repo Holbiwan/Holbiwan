@@ -1,0 +1,32 @@
+# Creating an immutable string
+my_string = "Hello, World"
+
+# Attempting to modify the string
+# This will create a new object with the modified value
+new_string = my_string.upper()
+
+# Displaying the original and modified strings
+print("Original String:", my_string)
+print("Modified String:", new_string)
+
+# Creating an immutable tuple
+my_tuple = (1, 2, 3)
+
+# Attempting to modify the tuple
+# This will result in a new tuple
+new_tuple = my_tuple + (4,)
+
+# Displaying the original and modified tuples
+print("Original Tuple:", my_tuple)
+print("Modified Tuple:", new_tuple)
+
+# Creating an immutable number
+my_number = 42
+
+# Attempting to modify the number
+# This will result in a new number
+new_number = my_number * 2
+
+# Displaying the original and modified numbers
+print("Original Number:", my_number)
+print("Modified Number:", new_number)

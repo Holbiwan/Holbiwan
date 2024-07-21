@@ -36,6 +36,12 @@
   <a href="https://www.linkedin.com/in/sabrina-p006566185/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://x.com/Holbiwan_Place">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>    
+  </a>
+  <a href="https://github.com/Holbiwan">
+    <img src="https://img.shields.io/badge/-HOLBIWAN-black?style=flat-square&logo=github"/>    
+  </a>
 </p>
 
 

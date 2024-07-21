@@ -1,0 +1,17 @@
+# Creating a mutable list
+my_list = [1, 2, 3, 4, 5]
+
+# Modifying the list by changing the value at index 2
+my_list[2] = 10
+
+# Displaying the modified list
+print(my_list)  # This will print [1, 2, 10, 4, 5]
+
+# Creating a mutable dictionary
+my_dict = {'name': 'Alice', 'age': 30}
+
+# Modifying the value associated with the 'age' key
+my_dict['age'] = 31
+
+# Displaying the modified dictionary
+print(my_dict)  # This will print {'name': 'Alice', 'age': 31}
