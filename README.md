@@ -43,9 +43,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>    
 </a>
 
-<a ref="https://www.twitch.tv/twitchygyal">
+<a href="https://www.twitch.tv/twitchygyal">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>    
 </a>
+
 
 <a href="https://x.com/Holbiwan_Place">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>    
