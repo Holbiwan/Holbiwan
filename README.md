@@ -8,7 +8,7 @@
 
 # Hi, I am Sabrina 👋
 
-## I am a Software Engineer Student in Full Stack Specialization 🚀
+## Studies in Full Stack Specialization 🚀
 
 - 🔭 I’m currently working on improving my coding skills through practical projects.
 - 🌱 I learn by doing... Embracing hands-on projects and challenges.
