@@ -30,7 +30,7 @@
 
 🔗 [My personnal site](https://holbiwan.github.io/Holbiwan-Dev.io/)
 
-🔗 [My Youtube](https://www.youtube.com/@BriaDev_Paris)
+🔗 [My Youtube space](https://www.youtube.com/@BriaDev_Paris)
 
 
 
