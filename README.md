@@ -14,7 +14,7 @@
 - 🌱 I learn by doing... Embracing hands-on projects and challenges.
 
 *************************************************************************************************************  
-### Languages, Frameworks & Tools 🛠️
+## Languages, Frameworks & Tools 🛠️
 
 <p align="center">
 <a href="https://github.com/Holbiwan">
