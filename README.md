@@ -28,6 +28,9 @@
 
 ### Connect with me 🌐
 
+🔗 [My personnal site](https://holbiwan.github.io/Holbiwan-Dev.io/)
+
+
 <p align="center">
   
   <a href="https://instagram.com/holbiwan.saby">
