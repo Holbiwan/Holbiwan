@@ -14,7 +14,7 @@
 - 🌱 I learn by doing... Embracing hands-on projects and challenges.
 
 *************************************************************************************************************  
-### Languages & Tools 🛠️
+### Languages, Frameworks & Tools 🛠️
 
 <p align="center">
 <a href="https://github.com/Holbiwan">
@@ -22,7 +22,7 @@
 <p align="center">
   
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,django,mysql,git,github,vscode,bootstrap,flask,sqlite,npm,postman,dart,flutter,firebase,firestore" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,c,python,js,react,nodejs,django,mysql,git,github,vscode,bootstrap,flask,sqlite,npm,postman,dart,flutter,firebase,vite,"/><br>
 </div>
 
 
