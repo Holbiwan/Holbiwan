@@ -6,7 +6,7 @@
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
-# Hi, I am Sabrina 👋
+# Hi 👋
 
 ## Studies in Full Stack Specialization 🚀
 
