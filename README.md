@@ -26,7 +26,7 @@
 </div>
 
 
-### Connect with me 🌐
+## Connect with me 🌐
 
 🔗 [My personnal site](https://holbiwan.github.io/Holbiwan-Dev.io/)
 
