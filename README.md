@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Holbiwan&label=Profile%20views&color=0e75b6&style=flat" alt="Holbiwan" /> </p>
 
 
-![Holbiwan](https://zupimages.net/up/24/29/uiqm.png)
+![Holbiwan](https://zupimages.net/up/25/20/31g0.gif)
 
 
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;Iam+Sabrina+aka+Holbiwan+or+Bria;I+am+passionate+about+coding;)](https://git.io/typing-svg)
