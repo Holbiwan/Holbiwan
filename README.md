@@ -4,7 +4,7 @@
 ![Holbiwan](https://zupimages.net/up/25/20/31g0.gif)
 
 
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;Iam+Sabrina+aka+Holbiwan;I+am+passionate+about+new+tech;)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;Iam+Sabrina;I+am+passionate+about+new+tech;)](https://git.io/typing-svg)
 
 # Hi 👋
 
