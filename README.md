@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -19,7 +19,7 @@
 I enjoy turning ideas into **clean, scalable, and human-centered solutions**,  
 from UI design to backend logic and cloud services.
 
----
+
 
 ## 🧠 What I Do
 
@@ -29,7 +29,7 @@ from UI design to backend logic and cloud services.
 - ☁️ Firebase & Cloud-based architectures
 - 🧩 Clean architecture & maintainable code
 
----
+
 
 ## 🚀 Featured Project
 
@@ -46,7 +46,6 @@ from UI design to backend logic and cloud services.
 </a>
 
 
----
 
 ## 🛠️ Languages, Frameworks & Tools
 
@@ -76,7 +75,7 @@ from UI design to backend logic and cloud services.
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -92,7 +91,7 @@ from UI design to backend logic and cloud services.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
