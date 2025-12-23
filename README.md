@@ -83,10 +83,10 @@ from UI design to backend logic and cloud services.
   <img src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&theme=radical&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=false" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical" />
+</p>
 
 
 <h2 align="center">
