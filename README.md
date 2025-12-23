@@ -41,9 +41,11 @@ from UI design to backend logic and cloud services.
 - 🎯 Job search, profiles, favorites
 - 💡 Built with scalability and user experience in mind
 
-<a href="https://github.com/Holbiwan/timeless">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Holbiwan/timeless">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 
 
@@ -53,7 +55,6 @@ from UI design to backend logic and cloud services.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,flask,mysql,sqlite,git,github,vscode,bootstrap,npm,postman,dart,flutter,firebase,vite" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -76,11 +77,10 @@ from UI design to backend logic and cloud services.
 </p>
 
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ from UI design to backend logic and cloud services.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical&count_private=true" />
 </p>
 
 
