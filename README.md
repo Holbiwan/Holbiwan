@@ -93,10 +93,12 @@ from UI design to backend logic and cloud services.
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
-</p>
+<h2 align="center">
+  Thanks for your visit
+</h2>
 
 <p align="center">
-  <i>Thanks for visiting</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=See+you+soon...;Let's+build+something+meaningful" />
+  </a>
 </p>
