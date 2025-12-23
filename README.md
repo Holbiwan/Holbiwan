@@ -84,13 +84,8 @@ from UI design to backend logic and cloud services.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Holbiwan&theme=radical&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=false" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical&count_private=true" />
-</p>
-
 
 
 <h2 align="center">
@@ -99,6 +94,6 @@ from UI design to backend logic and cloud services.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=See+you+soon...;Let's+build+something+meaningful" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=See+you+soon..." />
   </a>
 </p>
