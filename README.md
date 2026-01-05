@@ -77,16 +77,6 @@ from UI design to backend logic and cloud services.
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Holbiwan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holbiwan&layout=compact&theme=radical" />
-</p>
 
 
 <h2 align="center">
