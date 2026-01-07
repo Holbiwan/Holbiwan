@@ -28,19 +28,14 @@ combining creativity with clean architecture and real-world use cases.
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sabrina-papeau">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@BriaDev_Paris">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:sabrina.papeau.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/holbiwan.saby">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-papeau)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BriaDev_Paris)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrina.papeau.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/holbiwan.saby)
+
 </p>
+
 
 <br/>
 
@@ -58,7 +53,8 @@ combining creativity with clean architecture and real-world use cases.
 
 ### Timeless — Job Search App
 
-> Helping people discover **meaningful career opportunities**.
+> Helping candidates discover career opportunities  
+> And **recruiters** find their future employees  
 
 - 📱 Flutter (Dart)
 - 🔥 Firebase (Auth, Firestore, Storage)
@@ -78,11 +74,7 @@ combining creativity with clean architecture and real-world use cases.
 - 🌿 Aromatherapy · wellness tips · holistic guidance
 - 🔌 REST API (Django Rest Framework)
 
-<p align="center">
-  <a href="https://github.com/Holbiwan/timeless">
-    <img src="https://img.shields.io/badge/View%20Repository-GitHub-000000?style=flat&logo=github"/>
-  </a>
-</p>
+
 
 <br/>
 
@@ -94,10 +86,3 @@ combining creativity with clean architecture and real-world use cases.
 
 <br/>
 
-<p align="center">
-   Thanks for stopping by ✨
-</p>
-
-<p align="center">
-  
-</p>
