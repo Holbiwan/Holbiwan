@@ -16,12 +16,8 @@
 
 ## About Me
 
-🎓 **Full Stack Web & Mobile Developer (Final Certification Stage)**  
-📱 Building **web & mobile experiences** with Flutter & Firebase  
-🚀 Driven by **useful, human-centered digital products**
+🎓 **Full Stack Web & Mobile Developer Student (Final Certification Stage)**  
 
-I love transforming ideas into **clear interfaces and reliable logic**,  
-combining creativity with clean architecture and real-world use cases.
 
 <br/>
 
