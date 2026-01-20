@@ -16,7 +16,7 @@
 
 ## About Me
 
-🎓 **Full Stack Web & Mobile Developer Student (Final Certification Stage)**  
+🎓 **Full Stack Developer Student (Final specialization Stage)**  
 
 
 <br/>
