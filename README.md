@@ -52,10 +52,10 @@
 > Helping candidates discover career opportunities  
 > And **recruiters** find their future employees  
 
-- 📱 Flutter (Dart)
-- 🔥 Firebase (Auth, Firestore, Storage)
-- 🎯 Job search · profiles · favorites
-- 💡 Focus on scalability & user experience
+- 📱 Flutter & Dart | Cross-platform development
+- 🔥 Firebase & Google Cloud | Auth (Email, Google), Firestore, Storage
+- 💡 Focus | Scalable Architecture (MVC) · Seamless UX · Real-time Database Sync
+-  🎯 Core Features | Real-time Job Postings · Recruiter Dashboard · Candidate Profiles
 
 <br/>
 
@@ -67,7 +67,6 @@
 - 🌐 Django (Python 3)
 - ⚛️ React (JavaScript)
 - 🗄️ SQLite
-- 🌿 Aromatherapy · wellness tips · holistic guidance
 - 🔌 REST API (Django Rest Framework)
 
 
