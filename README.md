@@ -9,15 +9,18 @@
 </p>
 
 <p align="center">
-  ✨ Curious mind · 🌱 Lifelong learner · 💻 Tech enthusiast
+  ✨ Curious mind · 🌱 Lifelong learner · 💻 Tech enthusiast . 🎓 Full Stack Developer in progress
 </p>
 
 <br/>
+ 
+## 🧠 What I Enjoy Working On
 
-## About Me
-
-🎓 **Full Stack Developer (In Constant Progress)**  
-
+- 🌐 Web applications (frontend & backend)
+- 📱 Mobile apps with Flutter
+- 🔐 Authentication & secure user flows
+- ☁️ Firebase & cloud-based architectures
+- 🧩 Clean, maintainable code
 
 <br/>
 
@@ -35,13 +38,6 @@
 
 <br/>
 
-## 🧠 What I Enjoy Working On
-
-- 🌐 Web applications (frontend & backend)
-- 📱 Mobile apps with Flutter
-- 🔐 Authentication & secure user flows
-- ☁️ Firebase & cloud-based architectures
-- 🧩 Clean, maintainable code
 
 <br/>
 
