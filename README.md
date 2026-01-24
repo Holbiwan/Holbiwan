@@ -75,9 +75,35 @@
 
 ## 🛠️ Tech Playground
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,flask,mysql,sqlite,git,github,vscode,bootstrap,npm,postman,dart,flutter,firebase,vite" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,flask,mysql,git,github,vscode,npm,postman,dart,flutter,firebase&size=24&perline=20" />
+</p>
+
+
+
+</p>
+
 </p>
 
 <br/>
+
+
+
+### 📊 My GitHub Stats
+![Sabrina's Stats](https://github-readme-stats.vercel.app/api?username=DataSab&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataSab&layout=compact&theme=radical)
+
+### 🛠️ Favorite Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+
+
+
+
 
