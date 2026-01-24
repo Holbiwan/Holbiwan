@@ -16,7 +16,7 @@
 
 ## About Me
 
-🎓 **Full Stack Developer Student (Final specialization Stage)**  
+🎓 **Full Stack Developer (In Constant Progress)**  
 
 
 <br/>
