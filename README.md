@@ -16,7 +16,7 @@
  
 ## 🧠 What I Enjoy Working On
 
-- 🌐 Web applications (frontend & backend)
+- 🌐 Web applications (frontend & backend & API)
 - 📱 Mobile apps with Flutter
 - 🔐 Authentication & secure user flows
 - ☁️ Firebase & cloud-based architectures
