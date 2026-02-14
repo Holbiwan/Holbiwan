@@ -88,24 +88,13 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataSab&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataSab&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&v=1" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataSab&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=10&v=1" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DataSab&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&v=1" alt="Contribution Stats" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DataSab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&v=1" alt="Contribution Graph" />
 
-</div>
+---
 
-<br/>
+## 📈 Activity Graph
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DataSab&theme=radical&no-frame=true&margin-w=15&no-bg=true&v=1" alt="GitHub Trophies" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DataSab&theme=tokyo-night&color=ff69b4&line=ff69b4&point=ffffff&bg_color=0d1117&hide_border=true&v=2)
 
 </div>
