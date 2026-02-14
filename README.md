@@ -88,47 +88,38 @@
 
 
 
-<div align="center">                                                                                                              
-  ## 📊 GitHub Statistics                                                                                                        
-                                                                                                                                 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataSab&show_icons=true&theme=radical&hide_border=tru
-  e&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"
-  alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataSab&theme=radical&hide_border=true&background=
-  0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+<<div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataSab&layout=compact&theme=radical&hide_
-  border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DataSab&theme=radical&hide_border=true&bg_color=
-  0d1117&title_color=ff69b4&text_color=ffffff" alt="Contribution Stats" />
+## 📊 GitHub Statistics
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataSab&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataSab&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataSab&theme=tokyo-night&hide_border=true&bg_color=0d
-  1117&color=ff69b4&line=ff69b4&point=ffffff" alt="Contribution Graph" width="98%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataSab&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DataSab&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" alt="Contribution Stats" />
 
-  </div>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DataSab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff" alt="Contribution Graph" />
 
-  <br/>
+</div>
 
-  ---
+<br/>
+<hr/>
 
-  <div align="center">
+<div align="center">
 
-  ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-  <img src="https://github-profile-trophy.vercel.app/?username=DataSab&theme=radical&no-frame=true&no-bg=true&row=1&column=7"    
-  alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DataSab&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 
-  </div>
+</div>
 
-  <br/>
+<br/>
+<hr/>
 
-  ---
+<div align="center">
 
-  <div align="center">
+### 💖 Thanks for visiting!
 
-  ### 💖 Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"       
-  width="100%"/>
-
-  </div>
+</div>
