@@ -4,22 +4,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Sabrina;Developer+by+envy,+creator+by+heart;Building+ideas+into+digital+experiences;&center=true&width=620&height=40">
+    <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Sabrina;&center=true&width=620&height=40">
   </a>
 </p>
 
 <p align="center">
-  ✨ Curious mind · 🌱 Lifelong learner · 💻 Tech enthusiast . 🎓 Full Stack Developer in progress
+  ✨ Curious mind · 🌱 Lifelong learner · 💻 Tech enthusiast 
 </p>
 
 <br/>
  
-## 🧠 What I Enjoy Working On
-
-- 🌐 Applications (frontend & backend & API)
-- 🔐 Authentication & secure user flows
-- ☁️ Firebase & cloud-based architectures
-- 🧩 Clean, maintainable code
 
 <br/>
 
@@ -43,30 +37,6 @@
 
 
 <br/>
-
-## ✨ Featured Projects
-
-### Timeless — Job Search App
-
-> Helping candidates discover career opportunities  
-> And **recruiters** find their future employees  
-
-- 📱 Flutter & Dart | Cross-platform development
-- 🔥 Firebase & Google Cloud | Auth (Email, Google), Firestore, Storage
-- 💡 Focus | Scalable Architecture (MVC) · Seamless UX · Real-time Database Sync
--  🎯 Core Features | Real-time Job Postings · Recruiter Dashboard · Candidate Profiles
-
-<br/>
-
-###  House Of Bliss — Holistic Web Platform
-
-> A soft space for mental well-being and holistic living.  
-> Sharing **preventive wellness content** and lifestyle inspiration.
-
-- 🌐 Django (Python 3)
-- ⚛️ React (JavaScript)
-- 🗄️ SQLite
-- 🔌 REST API (Django Rest Framework)
 
 
 
