@@ -22,7 +22,6 @@
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-pap)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoranda971@gmail.com)
 [![Discord](https://img.shields.io/badge/Bria__Dev_Street-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VQEYcMPVWP)
 
 
