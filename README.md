@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  🌐 WEBSITE -  Discover my personal website documenting my career transition into IT →
+  🌐 VOIR MON SITE  -  transition pro IT →
   <a href="https://www.briadev.com/" target="_blank"><b>briadev.com</b></a>
 </p>
 
